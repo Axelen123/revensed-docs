@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "description": "Documentation for ReVanced, also contains guides, walkthroughs and tutorials.",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}

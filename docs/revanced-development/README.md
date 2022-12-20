@@ -4,7 +4,7 @@ Instructions to build and install ReVanced.
 
 ## 📖 Table of contents
 
-- [Prerequisites](0_prerequisites.md)
+- [Prerequisites](./0_prerequisites.md)
   - [Downloading prebuilt Packages](1_downloading.md)
   - [Building from source](2_building_from_source.md)
     - [1. Building the ReVanced Patcher](3_building_revanced_patcher.md)
